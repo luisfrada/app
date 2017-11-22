@@ -1,0 +1,13 @@
+{
+    "name": "lrada/app-a",
+    "version": "1.0.0",
+    "description": "app-a",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luis Rada",
+            "email": "luisfrada@gmail.com"
+        }
+    ],
+    "require": {}
+}
